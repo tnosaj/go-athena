@@ -1,4 +1,4 @@
-module github.com/segmentio/go-athena
+module github.com/tnosaj/go-athena
 
 go 1.21
 
